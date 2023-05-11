@@ -1,0 +1,11 @@
+{
+  "name": "express-api-biodata",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
